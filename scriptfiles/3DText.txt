@@ -1,0 +1,171 @@
+
+//------------------------------------//
+3D Text Label Creator V1.0 RC2 By Zero_Cool
+DATE: Day:19 | Month:6 | Year:2024
+TIME: Hours:17 | Minutes:28 | Seconds:13
+
+
+//------------------------------------//
+
+//------------------------------------//
+3D Text Label Creator V1.0 RC2 By Zero_Cool
+DATE: Day:19 | Month:6 | Year:2024
+TIME: Hours:17 | Minutes:29 | Seconds:58
+
+new Text3D:Text0;
+
+//------------------------------------//
+Text0 = Create3DTextLabel("Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text0,GetPlayerVehicleID(playerid),-0.000000,0.000000,0.000000);
+
+//------------------------------------//
+3D Text Label Creator V1.0 RC2 By Zero_Cool
+DATE: Day:19 | Month:6 | Year:2024
+TIME: Hours:17 | Minutes:45 | Seconds:47
+
+new Text3D:Text0;
+new Text3D:Text1;
+new Text3D:Text2;
+new Text3D:Text3;
+new Text3D:Text4;
+new Text3D:Text5;
+new Text3D:Text6;
+new Text3D:Text7;
+new Text3D:Text8;
+new Text3D:Text9;
+new Text3D:Text10;
+new Text3D:Text11;
+new Text3D:Text12;
+new Text3D:Text13;
+new Text3D:Text14;
+new Text3D:Text15;
+new Text3D:Text16;
+new Text3D:Text17;
+new Text3D:Text18;
+new Text3D:Text19;
+new Text3D:Text20;
+new Text3D:Text21;
+new Text3D:Text22;
+
+//------------------------------------//
+Text0 = Create3DTextLabel("Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text0,GetPlayerVehicleID(playerid),-0.100000,0.000000,0.000000);
+Text1 = Create3DTextLabel("Public Car",872362922,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text1,GetPlayerVehicleID(playerid),0.100000,0.000000,0.000000);
+Text2 = Create3DTextLabel("Public Car",-65366,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text2,GetPlayerVehicleID(playerid),-5.599997,0.000000,0.000000);
+Text3 = Create3DTextLabel("Public Car",-6750038,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text3,GetPlayerVehicleID(playerid),-2.799999,0.000000,0.000000);
+Text4 = Create3DTextLabel("Public Car",-10027094,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text4,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text5 = Create3DTextLabel("Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text5,GetPlayerVehicleID(playerid),2.399999,0.000000,0.000000);
+Text6 = Create3DTextLabel("Public Car",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text6,GetPlayerVehicleID(playerid),0.300000,0.000000,0.000000);
+Text7 = Create3DTextLabel("Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text7,GetPlayerVehicleID(playerid),0.000000,0.000000,-0.500000);
+Text8 = Create3DTextLabel("Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text8,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text9 = Create3DTextLabel("Police Ranger (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text9,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text10 = Create3DTextLabel("Police Truck (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text10,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text11 = Create3DTextLabel("3D TextLabel11",-86,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text11,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text12 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text12,GetPlayerVehicleID(playerid),0.400000,0.000000,0.000000);
+Text13 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text13,GetPlayerVehicleID(playerid),-0.200000,0.000000,0.000000);
+Text14 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text14,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text15 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text15,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text16 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text16,GetPlayerVehicleID(playerid),0.300000,0.000000,0.000000);
+Text17 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text17,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text18 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text18,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text19 = Create3DTextLabel("Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text19,GetPlayerVehicleID(playerid),0.200000,0.000000,0.000000);
+Text20 = Create3DTextLabel("Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text20,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text21 = Create3DTextLabel("Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text21,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text22 = Create3DTextLabel("Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text22,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+
+//------------------------------------//
+3D Text Label Creator V1.0 RC2 By Zero_Cool
+DATE: Day:19 | Month:6 | Year:2024
+TIME: Hours:17 | Minutes:45 | Seconds:52
+
+new PlayerText3D:Text0;
+new PlayerText3D:Text1;
+new PlayerText3D:Text2;
+new PlayerText3D:Text3;
+new PlayerText3D:Text4;
+new PlayerText3D:Text5;
+new PlayerText3D:Text6;
+new PlayerText3D:Text7;
+new PlayerText3D:Text8;
+new PlayerText3D:Text9;
+new PlayerText3D:Text10;
+new PlayerText3D:Text11;
+new PlayerText3D:Text12;
+new PlayerText3D:Text13;
+new PlayerText3D:Text14;
+new PlayerText3D:Text15;
+new PlayerText3D:Text16;
+new PlayerText3D:Text17;
+new PlayerText3D:Text18;
+new PlayerText3D:Text19;
+new PlayerText3D:Text20;
+new PlayerText3D:Text21;
+new PlayerText3D:Text22;
+Text0 = CreatePlayer3DTextLabel(playerid,"Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text0,GetPlayerVehicleID(playerid),-0.100000,0.000000,0.000000);
+Text1 = CreatePlayer3DTextLabel(playerid,"Public Car",872362922,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text1,GetPlayerVehicleID(playerid),0.100000,0.000000,0.000000);
+Text2 = CreatePlayer3DTextLabel(playerid,"Public Car",-65366,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text2,GetPlayerVehicleID(playerid),-5.599997,0.000000,0.000000);
+Text3 = CreatePlayer3DTextLabel(playerid,"Public Car",-6750038,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text3,GetPlayerVehicleID(playerid),-2.799999,0.000000,0.000000);
+Text4 = CreatePlayer3DTextLabel(playerid,"Public Car",-10027094,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text4,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text5 = CreatePlayer3DTextLabel(playerid,"Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text5,GetPlayerVehicleID(playerid),2.399999,0.000000,0.000000);
+Text6 = CreatePlayer3DTextLabel(playerid,"Public Car",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text6,GetPlayerVehicleID(playerid),0.300000,0.000000,0.000000);
+Text7 = CreatePlayer3DTextLabel(playerid,"Public Car",-16777046,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text7,GetPlayerVehicleID(playerid),0.000000,0.000000,-0.500000);
+Text8 = CreatePlayer3DTextLabel(playerid,"Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text8,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text9 = CreatePlayer3DTextLabel(playerid,"Police Ranger (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text9,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text10 = CreatePlayer3DTextLabel(playerid,"Police Truck (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text10,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text11 = CreatePlayer3DTextLabel(playerid,"3D TextLabel11",-86,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text11,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text12 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text12,GetPlayerVehicleID(playerid),0.400000,0.000000,0.000000);
+Text13 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text13,GetPlayerVehicleID(playerid),-0.200000,0.000000,0.000000);
+Text14 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text14,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text15 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text15,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text16 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text16,GetPlayerVehicleID(playerid),0.300000,0.000000,0.000000);
+Text17 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text17,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text18 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text18,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text19 = CreatePlayer3DTextLabel(playerid,"Police Bike (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text19,GetPlayerVehicleID(playerid),0.200000,0.000000,0.000000);
+Text20 = CreatePlayer3DTextLabel(playerid,"Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text20,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text21 = CreatePlayer3DTextLabel(playerid,"Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text21,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
+Text22 = CreatePlayer3DTextLabel(playerid,"Police Car (LSPD)",929038335,0.0,0.0,0.0,30.0,0,1);
+Attach3DTextLabelToVehicle(Text22,GetPlayerVehicleID(playerid),0.000000,0.000000,0.000000);
