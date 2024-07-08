@@ -20,6 +20,7 @@ Server Features & Activites:
 5.Spawn with $10,000 in-game money.
 
 <h3>Sever Commands:</h3>
+
 ```bash
 /Help - display help dialog
 /Helpme - Request help from admins.
