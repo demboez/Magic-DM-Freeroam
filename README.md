@@ -3,7 +3,7 @@
 </p>
 
 <h3>DeathMatch/Freeroam SA-MP Mode</h3>
-A San Andres Multiplayer Server Mode with basic and some adnavced systems.
+A San Andres Multiplayer Server Mode with basic and some advanced systems.
 Created By Demboez.
 
 
@@ -22,11 +22,11 @@ Last update:
 1.Weapons (Temp).
 2.Admin mode.
 3.V.I.P Mode.
-4.Login & Registrion (using D_ini).
-5.Private Messges (/pm).
+4.Login & Registration (using D_ini).
+5.Private Messages (/pm).
 ```
 
-<h3>Server Features & Activites:</h3>
+<h3>Server Features & Activities:</h3>
 
 ```bash
 1.Ablity to Fly (/Fly).
