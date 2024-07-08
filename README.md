@@ -1,4 +1,4 @@
-<p> align="center">
+<p>align="center">
   <img src="https://i.imgur.com/LaObeNO.jpeg" width="600" title="hover text">
 </p>
 
