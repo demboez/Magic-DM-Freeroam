@@ -1,0 +1,1 @@
+Magic DeathMatch/Freeroam SA-MP Mode
