@@ -1,5 +1,5 @@
-<p>align="center">
-  <img src="https://i.imgur.com/LaObeNO.jpeg" width="600" title="hover text">
+<p align="center">
+  <img src="https://i.imgur.com/O6ffe0B.png" width="600" title="hover text">
 </p>
 
 <h3>DeathMatch/Freeroam SA-MP Mode</h3>
