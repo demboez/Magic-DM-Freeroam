@@ -76,4 +76,4 @@ Last update:
 
 🔴NOTE: Use /tele way more easy!🔴
 
-[<img src="https://i.imgur.com/O6ffe0B.png">](https://discord.com/invite/dXUkasvm/)
+[<img src="https://i.imgur.com/5FwNZfI.png">](https://discord.com/invite/dXUkasvm/)
