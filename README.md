@@ -53,21 +53,21 @@ Last update:
 <h3>Server Teleports:</h3>
 
 ```bash
-/Race
-/LV
-/LS
-/SF
-/AP
-/Army
-/Police
-/Jeeps
-/Drift
-/Ramp
-/Tower
-/Swamp
-/Chiliad
-/Casino
-/Casino2
+/Race - Race Area.
+/LV - Las Venturas.
+/LS - Los Santos.
+/SF - San Fierro.
+/AP - LV airpor.
+/Army - Army base 69.
+/Police - LV Police.
+/Jeeps - Jeeps Area.
+/Drift - Drift Area.
+/Ramp - Ramp Area.
+/Tower - Top of the tower.
+/Swamp - The Swamp.
+/Chiliad - Mount Chiliad.
+/Casino - Four Star Draagon.
+/Casino2 - The other one.
 ```
 
 🔴NOTE:Use /tele way more easy!🔴
