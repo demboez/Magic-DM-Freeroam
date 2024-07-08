@@ -70,4 +70,4 @@ Last update:
 /Casino2 - The other one.
 ```
 
-🔴NOTE:Use /tele way more easy!🔴
+🔴NOTE: Use /tele way more easy!🔴
