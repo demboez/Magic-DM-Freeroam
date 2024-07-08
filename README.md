@@ -11,13 +11,15 @@ Sever Systems:
 4.Login & Registrion (using D_ini).
 5.Private Messges (/pm).
 
-Server Features & Activites:
+<h3>Server Features & Activites:</h3>
 
+```bash
 1.Ablity to Fly (/Fly).
 2.DeathMatch zones (/DM).
 3.Speed-O-Meter.
 4.Football Matches (Only admins can start)
 5.Spawn with $10,000 in-game money.
+```
 
 <h3>Sever Commands:</h3>
 
@@ -36,7 +38,9 @@ Server Features & Activites:
 /Fix - fix vehicle
 ```
 
-Server Teleports:
+<h3>Server Teleports:</h3>
+
+```bash
 /Race
 /LV
 /LS
@@ -52,5 +56,6 @@ Server Teleports:
 /Chiliad
 /Casino
 /Casino2
+```
 
 🔴NOTE:Use /tele way more easy!🔴
