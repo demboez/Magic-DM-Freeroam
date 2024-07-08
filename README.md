@@ -1,9 +1,15 @@
-<h3>Magic DeathMatch/Freeroam SA-MP Mode</h3>
+<h3>DeathMatch/Freeroam SA-MP Mode</h3>
 A San Andres Multiplayer Server Mode with basic and some adnavced systems.
 Created By Demboez.
 
 
-Mode info:
+<h3>Mode info:</h3>
+
+```bash
+Mode Name: Magic DeathMatch/Freeroam
+Mode Version: 1.0 Beta
+Game mode version: 0.3.7
+Last update: 
 
 
 <h3>Sever Systems:</h3>
@@ -36,6 +42,7 @@ Mode info:
 /VHelp - display vip help dialog.
 /Tele - display teleports dialog.
 /Afk - Away from keyboard.
+/DM - display DM zones dialog
 /Rules - See server rules.
 /Credits - display credits dialog
 /kill - Suiacide
